@@ -9,5 +9,7 @@
 #ifndef Swift_Header_h
 #define Swift_Header_h
 
+#import <CommonCrypto/CommonDigest.h>
+
 
 #endif /* Swift_Header_h */
